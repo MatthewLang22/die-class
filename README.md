@@ -1,4 +1,4 @@
-# Git Lab #2
+# the second git lab
 ## First team member: Matthew Lang
-
-Die class project. It simulates a die and includes a driver program.
+## Second team member: Alex Heffner
+### Die project. Simulates the rolling of a die with a specified number of sides.
