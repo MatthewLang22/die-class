@@ -1,5 +1,4 @@
-
-# the second git lab
+# The second Git lab
 ## First team member: Matthew Lang
 ## Second team member: Alex Heffner
-This repsitory is an example of a C++ project.
+### Die Project: simulates the rolling of a die with a specified number of sides
