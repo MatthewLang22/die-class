@@ -19,3 +19,16 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 3.
+* master
+
+4.
+* implement
+  master
+
+5.
+die.cc	first-answers.md  README.md  second-answers.md	SecondTest.md
+
+6.
+first-answers.md  README.md  second-answers.md	SecondTest.md
+
+7.No the Die.cc is not in the master branch
