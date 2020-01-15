@@ -35,7 +35,7 @@ int Die::getFaceValue(){
     return faceValue;
 }
 int Die::getNumSides(){
-    return numSides
+    return numSides;
 }
 
 //helper functions
